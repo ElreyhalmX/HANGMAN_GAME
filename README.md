@@ -3,7 +3,7 @@ Welcome to the hangman game, it is focused on 5 of the most famous programming l
 
 
 
-for my programming class they sent us to make another simple game in python so I decided to a funny game and simple one,something about programming you have to find out the programming  language letter by letter,the less you make mistakes, the higher your score will be.
+for my programming class they sent us to make another simple game in python so I decided to recreate a funny game and simple one,something about programming you have to find out the programming  language letter by letter,the less you make mistakes, the higher your score will be.
 
 
 
